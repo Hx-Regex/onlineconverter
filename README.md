@@ -13,7 +13,7 @@
 </a>
 
 <a href="">
-   <img src="https://img.shields.io/badge/Hx--regex-Check-redstyle=for-the-badge" alt="node.js">
+   <img src="https://img.shields.io/badge/Hx--regex-Me-red?style=flat-square" alt="node.js">
 </a>
 
 </p>
